@@ -1,0 +1,19 @@
+{
+    "name": "rifki-asus/si-mvc",
+    "description": "Tugas 2 SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rifki-asus",
+            "email": "rifki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
